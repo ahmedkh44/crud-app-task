@@ -6,7 +6,7 @@
 
 In the project directory, you can run:
 
-### frist `npm install`
+### first `npm install`
 
 
 ### after `npm start`
